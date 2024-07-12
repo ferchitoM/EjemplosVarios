@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>
+            @font/capriola
+        </item>
+        <item>
+            @font/lexend_tera
+        </item>
+        <item>
+            @font/bad_script
+        </item>
+        <item>
+            @font/bungee
+        </item>
+        <item>
+            @font/strait
+        </item>
+        <item>
+            @font/stylish
+        </item>
+        <item>
+            @font/joti_one
+        </item>
+        <item>
+            @font/baloo
+        </item>
+        <item>
+            @font/chilanka
+        </item>
+        <item>
+            @font/trade_winds
+        </item>
+    </array>
+</resources>
